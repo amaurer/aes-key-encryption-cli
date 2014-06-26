@@ -1,0 +1,11 @@
+{
+	 "name" : "aes-key-encryption-cli"
+	,"author" : "Andrew Maurer <andrew@maurer.me>"
+	,"description" : "Creates hex keys and encrypted passwords via command line."
+	,"version" : "0.0.1"
+	,"main" : "create.js"
+	,"dependencies" : {
+		"commander" : "2.2.0"
+	}
+	,"engine" : "0.10.26"
+}

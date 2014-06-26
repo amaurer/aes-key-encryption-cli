@@ -48,5 +48,5 @@ if(program.key){
 
 
 } else {
-	console.log("What the heck do you want, DOOD!?!!?");
+	program.help();
 };
